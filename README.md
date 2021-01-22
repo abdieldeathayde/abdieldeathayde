@@ -1,9 +1,5 @@
 ### Hi there 👋 I'm Abdiel de Athayde
 
-<!--
-**abdieldeathayde/abdieldeathayde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 👨🏼‍💻 Técnico em informática e granduando em análise e desenvolvimento de sistemas no Instituto Federal de Santa Catarina
 - 👨🏼‍💻 atuamente estudando Front end para revisar algumas habilidades e melhorar outras
