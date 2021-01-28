@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Abdiel de Athayde
 
+<a align="center">![Abdiel's github stats](https://github-readme-stats.vercel.app/api?username=abdieldeathayde&show_icons=true&theme=vue)</a>
+
 
 - 👨🏼‍💻 Técnico em informática e granduando em análise e desenvolvimento de sistemas no Instituto Federal de Santa Catarina
 - 👨🏼‍💻 atuamente estudando Front end para revisar algumas habilidades e melhorar outras
