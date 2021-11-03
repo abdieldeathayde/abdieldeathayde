@@ -4,5 +4,5 @@
 
 
 - 👨🏼‍💻 Técnico em informática e graduando em Análise e Desenvolvimento de Sistemas no Instituto Federal de Santa Catarina (IF-SC)
-- 👨🏼‍💻 atuamente estudando Front end para revisar algumas habilidades e melhorar outras
+- 👨🏼‍💻 atualmente estudando Front end para revisar algumas habilidades e melhorar outras
 - 📫 Onde me encontrar: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdieldeathayde)
