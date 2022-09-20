@@ -8,4 +8,4 @@
 - 👨🏼‍💻 Atualmente estou estudando HTML, CSS, Javascript e Java com o objetivo de me tornar desenvolvedor full stack. Estou disponível para novas oportunidades na área de Desenvolvimento de Sistemas
 - 📫 Onde me encontrar: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdieldeathayde)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/abdieldeathayde/github-readme-stats)
+[![Abdiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdieldeathayde)](https://github.com/abdieldeathayde/github-readme-stats)
