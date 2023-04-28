@@ -5,7 +5,7 @@
 
 - 👨🏼‍💻 Sou técnico em informática e graduando em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Santa Catarina (IFSC)
 - Por eu gostar de me aperfeiçoar, em 2021 iniciei o bootcamp do Entra21 organizado pela equipe da Proway, onde pude estudar Python e Django/Django rest framework. 
-- 👨🏼‍💻 Atualmente estou estudando HTML, CSS, Javascript e Java com o objetivo de me tornar desenvolvedor full stack. Estou disponível para novas oportunidades na área de Desenvolvimento de Sistemas
+- 👨🏼‍💻 Atualmente estou estudando Java com o objetivo de aprender backend.
 - 📫 Onde me encontrar: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdieldeathayde)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdieldeathayde)](https://github.com/abdieldeathayde/github-readme-stats)
