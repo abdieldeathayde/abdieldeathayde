@@ -7,9 +7,6 @@
  <h2>Olá! Sou o Abdiel!</h2>
 
  <p> 
-    🎓 Sou graduando em Análise de Sistemas - IFSC (Previsão de formatura dezembro, 2026)
-    🎓 Sou formado no curso Ténico em Informática - IFSC (2018)
-    <br><br>
     🔭Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca de uma oportunidade para me tornar Desenvolvedor Backend Java, SQL e SpringBoot.
     <br><br>
 </p>
