@@ -24,7 +24,16 @@
   <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
           
           
-</div>        
+</div>     
+
+<hr />
+<h2>Contato:</h2>
+<div class = "contato">
+    <a href="https://linkedin.com/in/abdieldeathayde" target="_blank"><img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+    <a href="hhtps://github.com/abdieldeathayde" target="_blank"><img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+          
+          
+</div>
 
 <br><br>
 <hr />
@@ -32,10 +41,13 @@
 <br>
 
 <div>
-  <a href="https://github.com/abdieldeathayde">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdieldeathayde&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <a href="https://github.com/abdieldeathayde"><img height="80em" src="https://github-readme-stats.vercel.app/api?username=abdieldeathayde&show_icons=true&theme=dark&include_all_commits=true&count_private=true" /></a>
+ 
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdieldeathayde&layout=compact&langs_count-16&theme=dark" />
-       
+
+  <hr />
+
+  ![Snake animation](https://github.com/abdieldeathayde/abdieldeathayde/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
