@@ -31,7 +31,7 @@
 <div class = "contato">
     <a href="https://linkedin.com/in/abdieldeathayde" target="_blank"><img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
     <a href="https://github.com/abdieldeathayde" target="_blank"><img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-    [![Email](https://img.shields.io/badge/Email-exemplo@email.com-red?style=flat-square&logo=gmail](mailto:abdieldeathayde67@gmail.com)
+    <a href="mailto:abdieldeathayde67@gmail.com" target="_blank"><img heigth="80em" src="https://img.shields.io/badge/abdieldeathayde67@gmail-red?style=flat-square&logo=gmail">
 
 
 </div>
