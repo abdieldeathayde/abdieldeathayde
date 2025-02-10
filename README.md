@@ -2,16 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport">
-    <title>Github Profile</title>
-    <style>
-        .tecnologias {
-          display: flex;
-          justify-content: space-between;
-          margin-top: 20px;
-          width: 50%;
-        }
-    </style>
 </head>
 <body>
  <h2>Olá! Sou o Abdiel!</h2>
