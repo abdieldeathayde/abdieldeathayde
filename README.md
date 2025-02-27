@@ -6,7 +6,8 @@
 <body>
  <h2>Olá! Sou o Abdiel!</h2>
 
- ![snake gif](https://github.com/abdieldeathayde/abdieldeathayde/blob/output/github-contribution-grid-snake.gif)
+ ![snake gif](https://github.com/abdieldeathayde/abdieldeathayde/blob/output/github-contribution-grid-snake.svg)
+ <br /><br />
 
  <p> 
     🔭Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca de uma oportunidade para me tornar Desenvolvedor Backend Java, SQL e SpringBoot.
