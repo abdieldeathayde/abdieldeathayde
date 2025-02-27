@@ -29,8 +29,8 @@
 <hr />
 <h2>Contato:</h2>
 <div class = "contato">
-    <a href="https://linkedin.com/in/abdieldeathayde" target="_blank"><img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-    <a href="mailto:abdieldeathayde67@gmail.com" target="_blank"><img heigth="80em" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000">
+    <a href="https://linkedin.com/in/abdieldeathayde" ><img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank" /></a>
+    <a href= "mailto:abdieldeathayde67@gmail.com" ><img heigth="80em" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" target="_blank" /></a>
     <!-- https://img.shields.io/badge/abdieldeathayde67@gmail-red?style=flat-square&logo=gmail -->
 
 
