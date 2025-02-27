@@ -6,6 +6,8 @@
 <body>
  <h2>Olá! Sou o Abdiel!</h2>
 
+ ![snake gif](https://github.com/abdieldeathayde/abdieldeathayde/blob/output/github-contribution-grid-snake.gif)
+
  <p> 
     🔭Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca de uma oportunidade para me tornar Desenvolvedor Backend Java, SQL e SpringBoot.
     <br><br>
@@ -46,7 +48,7 @@
  
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdieldeathayde&layout=compact&langs_count-16&theme=dark" />
 
-  ![snake gif](https://github.com/abdieldeathayde/abdieldeathayde/blob/output/github-contribution-grid-snake.gif)
+  
 
   
 </div>
