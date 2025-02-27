@@ -6,7 +6,9 @@
 <body>
  <h2>Olá! Sou o Abdiel!</h2>
 
- ![snake gif](https://github.com/abdieldeathayde/abdieldeathayde/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/abdieldeathayde/abdieldeathayde/blob/output/github-contribution-grid-snake.gitf)
+ ![snake](https://github.com/abdieldeathayde/abdieldeathayde/blob/output/github-contribution-grid-snake.svg)
+ 
  <br /><br />
 
  <p> 
