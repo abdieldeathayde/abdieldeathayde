@@ -46,7 +46,7 @@
  
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdieldeathayde&layout=compact&langs_count-16&theme=dark" />
 
-  ![Snake animation](https://github.com/abdieldeathayde/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/abdieldeathayde/abdieldeathayde/blob/output/github-contribution-grid-snake.gif)
 
   
 </div>
