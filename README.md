@@ -30,8 +30,8 @@
 <h2>Contato:</h2>
 <div class = "contato">
     <a href="https://linkedin.com/in/abdieldeathayde" target="_blank"><img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-    <a href="https://github.com/abdieldeathayde" target="_blank"><img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-    <a href="mailto:abdieldeathayde67@gmail.com" target="_blank"><img heigth="80em" src="https://img.shields.io/badge/abdieldeathayde67@gmail-red?style=flat-square&logo=gmail">
+    <a href="mailto:abdieldeathayde67@gmail.com" target="_blank"><img heigth="80em" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000">
+    <!-- https://img.shields.io/badge/abdieldeathayde67@gmail-red?style=flat-square&logo=gmail -->
 
 
 </div>
