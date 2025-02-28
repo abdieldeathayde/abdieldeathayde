@@ -6,8 +6,23 @@
 <body>
  <h2>Olá! Sou o Abdiel!</h2>
 
- ![snake gif](https://github.com/abdieldeathayde/abdieldeathayde/blob/output/github-contribution-grid-snake.gif)
- ![snake](https://github.com/abdieldeathayde/abdieldeathayde/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
+
+ <div>
+    
+
+     
+     <h2>Github Stats </h2>
+  <a href="https://github.com/abdieldeathayde"><img height="80em" src="https://github-readme-stats.vercel.app/api?username=abdieldeathayde&show_icons=true&theme=dark&include_all_commits=true&count_private=true" /></a>
+
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdieldeathayde&layout=compact&langs_count-16&theme=dark" />
+
+ @snk/gif-creator
+
+ 
+ 
+ <br><br>
+     
  
  <br /><br />
 
@@ -41,19 +56,6 @@
 
 </div>
 
-<br><br>
-<hr />
-<h2>Github Stats </h2>
-<br>
-
-<div>
-  <a href="https://github.com/abdieldeathayde"><img height="80em" src="https://github-readme-stats.vercel.app/api?username=abdieldeathayde&show_icons=true&theme=dark&include_all_commits=true&count_private=true" /></a>
- 
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdieldeathayde&layout=compact&langs_count-16&theme=dark" />
-
-  
-
-  
 </div>
 
 </body>
