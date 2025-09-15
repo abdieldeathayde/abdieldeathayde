@@ -36,13 +36,24 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdieldeathayde/abdieldeathayde/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdieldeathayde/abdieldeathayde/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abdieldeathayde/abdieldeathayde/output/pacman-contribution-graph.svg">
-</picture>
+import { generatePacManGame } from 'pacman-contribution-graph';
 
-###
+generatePacManGame({
+	username: 'your_username',
+	platform: 'github', // or 'gitlab'
+	theme: 'github-dark', // or 'gitlab-dark'
+	speed: 2,
+	sound: true,
+	output: 'canvas' // or 'svg'
+});
+
+<!-- For SVG -->
+<img src="https://pacman.abozanona.me?abdieldeathayde" />
+
+
+
+
+
 
 <h2 align="left">Social Media</h2>
 
