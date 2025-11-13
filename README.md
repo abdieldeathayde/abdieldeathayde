@@ -34,19 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
-###
-
-import { generatePacManGame } from 'pacman-contribution-graph';
-
-generatePacManGame({
-	username: 'your_username',
-	platform: 'github', // or 'gitlab'
-	theme: 'github-dark', // or 'gitlab-dark'
-	speed: 2,
-	sound: true,
-	output: 'canvas' // or 'svg'
-});
-
 <!-- For SVG -->
 <img src="https://pacman.abozanona.me?abdieldeathayde" />
 
