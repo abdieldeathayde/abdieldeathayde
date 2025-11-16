@@ -4,24 +4,29 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/abdieldeathayde">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" alt="linkedin logo"  />
-  </a>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqTgCgtTJHHmqlvTFnFjnTssCwGRwHMjnbwKzTlkSgnkWQDsrmrXxFTmXkPdZVLLxtmxjB">
-  <img 
-    src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
-    width="52" 
-    alt="logo gmail" 
-  />
-</a>
+<table align = "center">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/abdieldeathayde" >
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" alt="linkedin logo"   style="margin-right: 10px;"/> 
+      </a> 
+    </td>
 
-
-
-  <a href="https://www.instagram.com/abdiel_athayde/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" alt="logo Instagram" />
-  </a>
-</div>
+  <td>
+    <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqTgCgtTJHHmqlvTFnFjnTssCwGRwHMjnbwKzTlkSgnkWQDsrmrXxFTmXkPdZVLLxtmxjB">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" alt="logo gmail"  style="margin-right: 10px;" /> 
+    </a>
+  </td>
+  
+  <td>
+    <a href="https://www.instagram.com/abdiel_athayde/">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" alt="logo Instagram" />
+    </a>
+  </td>
+    
+</tr>
+</table>
+  
 
 ###
 
