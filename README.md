@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">- Java Developer<br>- Studying Java, MySQL, Spring Boot, Spring Data JPA, and doing practical projects</p>
+<p align="left">- Java Developer, MySQL, Spring Boot, Spring Data JPA, and doing practical projects</p>
 
 ###
 
