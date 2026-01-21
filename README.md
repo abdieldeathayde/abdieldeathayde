@@ -51,11 +51,3 @@ Sou Desenvolvedor Backend Java e Spring Boot, atuando em APIs REST, bancos de da
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
 </div>
-
----
-
-### 🔥 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=abdieldeathayde&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
-</div>
