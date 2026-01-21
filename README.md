@@ -29,10 +29,9 @@
 ### 👨‍💻 Sobre mim
 
 <p align="left">
-Sou Desenvolvedor Backend especializado em Java e Spring Boot, atuando em APIs REST, bancos de dados relacionais e boas práticas de engenharia.<br><br>
-- 🔭 Atualmente trabalho na **Real Care & Service** como Desenvolvedor Backend<br>
+Sou Desenvolvedor Backend Java e Spring Boot, atuando em APIs REST, bancos de dados relacionais e boas práticas de engenharia.<br><br>
 - 📚 Estudando **Java Avançado, Spring, Segurança e Arquitetura**<br>
-- ⚡ No meu tempo livre gosto de criar projetos open-source e evoluir minhas skills
+- ⚡ No meu tempo livre gosto de criar projetos open-source e evoluir minhas habilidades
 </p>
 
 ---
